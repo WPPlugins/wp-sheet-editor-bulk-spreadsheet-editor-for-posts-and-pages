@@ -1,0 +1,36 @@
+This plugin uses the following open source packages:
+
+- tipso by object505
+License: https://github.com/object505/tipso/blob/master/LICENSE
+
+- jquery-labelauty by fntneves.
+License: https://github.com/fntneves/jquery-labelauty/blob/master/License.md
+
+- ohSnap by justindomingue.
+License: https://github.com/justindomingue/ohSnap/blob/master/LICENSE.md
+
+- Handsontable.
+License: https://github.com/handsontable/handsontable/blob/master/LICENSE
+
+- jqueryte.
+License: https://github.com/gauravspatel/jqueryte/blob/master/LICENSE
+
+- Remodal.js
+License: https://github.com/VodkaBears/Remodal/blob/master/LICENSE
+
+- font-awesome by FortAwesome/Font-Awesome
+License: http://fontawesome.io/license/
+
+- jQuery 
+License: https://github.com/jquery/jquery/blob/master/LICENSE.txt 
+
+- moment.js
+License: https://github.com/moment/moment/blob/develop/LICENSE
+
+- nanobar by jacoborus/nanobar
+License: https://github.com/jacoborus/nanobar/blob/master/LICENSE
+
+- select2
+License: https://github.com/select2/select2/blob/master/LICENSE.md
+
+Thank you so much to the authors of those packages for releasing them as open source.
